@@ -1,0 +1,28 @@
+{
+  "name": "s3-team11-fs-db",
+  "version": "1.0.0",
+  "description": "Final Sprint ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZackeryWalshKeyin/S3-Team11-FS-DB.git"
+  },
+  "author": "B.Butler, Z.Walsh, C.Coles, W.Oldford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZackeryWalshKeyin/S3-Team11-FS-DB/issues"
+  },
+  "homepage": "https://github.com/ZackeryWalshKeyin/S3-Team11-FS-DB#readme",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "passport": "^0.7.0",
+    "pg": "^8.11.5",
+    "postman": "^0.2.0"
+  }
+}
