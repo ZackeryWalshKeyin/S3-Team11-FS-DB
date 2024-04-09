@@ -1,13 +1,15 @@
-create table STOCK_MARKET_DATA (
-	stock_id INT,
-	stock_symbol VARCHAR(50),
-	stock_name VARCHAR(50),
-	stock_sector VARCHAR(50),
-	stock_market_cap DECIMAL(15,2),
-	stock_price DECIMAL(7,2),
-	stock_volume INT,
-	stock_market VARCHAR(50)
-);
+CREATE TABLE IF NOT EXISTS public.stock_market_data
+(
+    stock_id integer NOT NULL,
+    stock_symbol character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    stock_name character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    stock_sector character varying(50) COLLATE pg_catalog."default",
+    stock_market_cap numeric(15,2) NOT NULL,
+    stock_price numeric(7,2) NOT NULL,
+    stock_volume integer NOT NULL,
+    stock_market character varying(50) COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT stock_market_data_pkey PRIMARY KEY (stock_id)
+)
 
 insert into STOCK_MARKET_DATA (stock_id, stock_symbol, stock_name, stock_sector, stock_market_cap, stock_price, stock_volume, stock_market) values (1, 'OXY', 'Occidental Petroleum Corporation', 'Energy', 601011840778.75, 9993.51, 38235338, 'NYSE');
 insert into STOCK_MARKET_DATA (stock_id, stock_symbol, stock_name, stock_sector, stock_market_cap, stock_price, stock_volume, stock_market) values (2, 'OCFC', 'OceanFirst Financial Corp.', 'Finance', 962724987126.69, 8809.8, 459721444, 'NASDAQ');
