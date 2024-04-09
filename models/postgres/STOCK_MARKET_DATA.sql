@@ -109,3 +109,5 @@ insert into STOCK_MARKET_DATA (stock_id, stock_symbol, stock_name, stock_sector,
 insert into STOCK_MARKET_DATA (stock_id, stock_symbol, stock_name, stock_sector, stock_market_cap, stock_price, stock_volume, stock_market) values (98, 'NFEC', 'NF Energy Saving Corporation', 'Capital Goods', 765570130760.65, 3981.45, 240618066, 'NASDAQ');
 insert into STOCK_MARKET_DATA (stock_id, stock_symbol, stock_name, stock_sector, stock_market_cap, stock_price, stock_volume, stock_market) values (99, 'PTR', 'PetroChina Company Limited', 'Energy', 332622614255.9, 2974.44, 971460201, 'NYSE');
 insert into STOCK_MARKET_DATA (stock_id, stock_symbol, stock_name, stock_sector, stock_market_cap, stock_price, stock_volume, stock_market) values (100, 'FISI', 'Financial Institutions, Inc.', 'Finance', 160590927299.48, 6864.16, 995370966, 'NASDAQ');
+insert into STOCK_MARKET_DATA (stock_id, stock_symbol, stock_name, stock_sector, stock_market_cap, stock_price, stock_volume, stock_market) values (101, 'XOM', 'Exxon Mobil Corporation', 'Energy', 480000000000.00, 75.00, 100000000, 'NYSE');
+
