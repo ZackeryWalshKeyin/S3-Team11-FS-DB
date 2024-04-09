@@ -998,5 +998,15 @@
         "stock_price": 6864.16,
         "stock_volume": 995370966,
         "stock_market": "NASDAQ"
+    },
+    {
+      "stock_id": 102,
+      "stock_symbol": "XOM",
+      "stock_name": "Exxon Mobil Corporation",
+      "stock_sector": "Energy",
+      "stock_market_cap": 480000000000.00,
+      "stock_price": 75.00,
+      "stock_volume": 100000000,
+      "stock_market": "NYSE"
     }
 ]
