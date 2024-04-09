@@ -1,0 +1,1012 @@
+[
+  {
+    "stock_id": 1,
+    "stock_symbol": "OXY",
+    "stock_name": "Occidental Petroleum Corporation",
+    "stock_sector": "Energy",
+    "stock_market_cap": 601011840778.75,
+    "stock_price": 9993.51,
+    "stock_volume": 38235338,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 2,
+    "stock_symbol": "OCFC",
+    "stock_name": "OceanFirst Financial Corp.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 962724987126.69,
+    "stock_price": 8809.8,
+    "stock_volume": 459721444,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 3,
+    "stock_symbol": "MBSD",
+    "stock_name": "FlexShares Disciplined Duration MBS Index Fund",
+    "stock_sector": "n/a",
+    "stock_market_cap": 639639063249.02,
+    "stock_price": 3105.37,
+    "stock_volume": 995939143,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 4,
+    "stock_symbol": "AMC",
+    "stock_name": "AMC Entertainment Holdings, Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 173762631938.58,
+    "stock_price": 2994.52,
+    "stock_volume": 923615109,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 5,
+    "stock_symbol": "MIME",
+    "stock_name": "Mimecast Limited",
+    "stock_sector": "Technology",
+    "stock_market_cap": 758744908971.84,
+    "stock_price": 2887.35,
+    "stock_volume": 292997795,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 6,
+    "stock_symbol": "CFR^A",
+    "stock_name": "Cullen/Frost Bankers, Inc.",
+    "stock_sector": "n/a",
+    "stock_market_cap": 656448089610.82,
+    "stock_price": 4278.45,
+    "stock_volume": 252990538,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 7,
+    "stock_symbol": "PKI",
+    "stock_name": "PerkinElmer, Inc.",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 225283892228.41,
+    "stock_price": 9792.76,
+    "stock_volume": 778400711,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 8,
+    "stock_symbol": "DDR^J",
+    "stock_name": "DDR Corp.",
+    "stock_sector": "n/a",
+    "stock_market_cap": 50150728834.21,
+    "stock_price": 5553.4,
+    "stock_volume": 258577151,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 9,
+    "stock_symbol": "EPAY",
+    "stock_name": "Bottomline Technologies, Inc.",
+    "stock_sector": "Technology",
+    "stock_market_cap": 646498087297.59,
+    "stock_price": 1779.72,
+    "stock_volume": 655907652,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 10,
+    "stock_symbol": "QTM",
+    "stock_name": "Quantum Corporation",
+    "stock_sector": "Technology",
+    "stock_market_cap": 959995070054.74,
+    "stock_price": 6902.9,
+    "stock_volume": 119529901,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 11,
+    "stock_symbol": "FCBC",
+    "stock_name": "First Community Bancshares, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 291616003489.48,
+    "stock_price": 6594.85,
+    "stock_volume": 802489307,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 12,
+    "stock_symbol": "WCST",
+    "stock_name": "Wecast Network, Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 965932806827.5,
+    "stock_price": 8287.03,
+    "stock_volume": 883356513,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 13,
+    "stock_symbol": "PVTD",
+    "stock_name": "PrivateBancorp, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 934415098325.11,
+    "stock_price": 5516.42,
+    "stock_volume": 233062335,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 14,
+    "stock_symbol": "NBN",
+    "stock_name": "Northeast Bancorp",
+    "stock_sector": "Finance",
+    "stock_market_cap": 440312017101.49,
+    "stock_price": 2802.31,
+    "stock_volume": 35935259,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 15,
+    "stock_symbol": "BDX",
+    "stock_name": "Becton, Dickinson and Company",
+    "stock_sector": "Health Care",
+    "stock_market_cap": 884138399552.28,
+    "stock_price": 6484.49,
+    "stock_volume": 989682807,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 16,
+    "stock_symbol": "ACRE",
+    "stock_name": "Ares Commercial Real Estate Corporation",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 530994225207.39,
+    "stock_price": 101.0,
+    "stock_volume": 737871400,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 17,
+    "stock_symbol": "BPFHP",
+    "stock_name": "Boston Private Financial Holdings, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 691334111361.09,
+    "stock_price": 820.36,
+    "stock_volume": 683839632,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 18,
+    "stock_symbol": "FDX",
+    "stock_name": "FedEx Corporation",
+    "stock_sector": "Transportation",
+    "stock_market_cap": 374935643894.56,
+    "stock_price": 2076.79,
+    "stock_volume": 271560206,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 19,
+    "stock_symbol": "SNFCA",
+    "stock_name": "Security National Financial Corporation",
+    "stock_sector": "Finance",
+    "stock_market_cap": 856421478021.4,
+    "stock_price": 7941.43,
+    "stock_volume": 530630103,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 20,
+    "stock_symbol": "ACIW",
+    "stock_name": "ACI Worldwide, Inc.",
+    "stock_sector": "Technology",
+    "stock_market_cap": 114469341421.64,
+    "stock_price": 8640.14,
+    "stock_volume": 514720149,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 21,
+    "stock_symbol": "SASR",
+    "stock_name": "Sandy Spring Bancorp, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 631670191309.66,
+    "stock_price": 6866.49,
+    "stock_volume": 372410729,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 22,
+    "stock_symbol": "LCA",
+    "stock_name": "Landcadia Holdings, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 306933461228.6,
+    "stock_price": 7207.04,
+    "stock_volume": 624386468,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 23,
+    "stock_symbol": "CLVS",
+    "stock_name": "Clovis Oncology, Inc.",
+    "stock_sector": "Health Care",
+    "stock_market_cap": 346843580344.67,
+    "stock_price": 679.44,
+    "stock_volume": 971695525,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 24,
+    "stock_symbol": "HRS",
+    "stock_name": "Harris Corporation",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 123919079665.61,
+    "stock_price": 7234.55,
+    "stock_volume": 759546474,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 25,
+    "stock_symbol": "ESGE",
+    "stock_name": "iShares MSCI EM ESG Optimized ETF",
+    "stock_sector": "n/a",
+    "stock_market_cap": 538090544151.26,
+    "stock_price": 1654.06,
+    "stock_volume": 696423665,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 26,
+    "stock_symbol": "WGL",
+    "stock_name": "WGL Holdings Inc",
+    "stock_sector": "Public Utilities",
+    "stock_market_cap": 102233040250.31,
+    "stock_price": 863.2,
+    "stock_volume": 285541699,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 27,
+    "stock_symbol": "SKYW",
+    "stock_name": "SkyWest, Inc.",
+    "stock_sector": "Transportation",
+    "stock_market_cap": 892489444494.26,
+    "stock_price": 9895.68,
+    "stock_volume": 765695651,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 28,
+    "stock_symbol": "AXP",
+    "stock_name": "American Express Company",
+    "stock_sector": "Finance",
+    "stock_market_cap": 478345505589.41,
+    "stock_price": 1823.2,
+    "stock_volume": 851938108,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 29,
+    "stock_symbol": "VIRT",
+    "stock_name": "Virtu Financial, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 296722027153.01,
+    "stock_price": 9809.12,
+    "stock_volume": 578247400,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 30,
+    "stock_symbol": "VNET",
+    "stock_name": "21Vianet Group, Inc.",
+    "stock_sector": "Technology",
+    "stock_market_cap": 784038196200.43,
+    "stock_price": 4428.08,
+    "stock_volume": 792569399,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 31,
+    "stock_symbol": "WHLRW",
+    "stock_name": "Wheeler Real Estate Investment Trust, Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 103903065079.98,
+    "stock_price": 6766.59,
+    "stock_volume": 290648632,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 32,
+    "stock_symbol": "KRC",
+    "stock_name": "Kilroy Realty Corporation",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 159597426509.93,
+    "stock_price": 358.68,
+    "stock_volume": 835992258,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 33,
+    "stock_symbol": "VMI",
+    "stock_name": "Valmont Industries, Inc.",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 335276442317.58,
+    "stock_price": 9939.82,
+    "stock_volume": 663529805,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 34,
+    "stock_symbol": "NAT",
+    "stock_name": "Nordic American Tankers Limited",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 971290063326.43,
+    "stock_price": 2419.87,
+    "stock_volume": 111431926,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 35,
+    "stock_symbol": "HUBB",
+    "stock_name": "Hubbell Inc",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 515698385441.31,
+    "stock_price": 5796.75,
+    "stock_volume": 375057374,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 36,
+    "stock_symbol": "DRUA",
+    "stock_name": "Dominion Energy, Inc.",
+    "stock_sector": "Public Utilities",
+    "stock_market_cap": 616679256303.59,
+    "stock_price": 9109.49,
+    "stock_volume": 131883635,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 37,
+    "stock_symbol": "MRC",
+    "stock_name": "MRC Global Inc.",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 74520652881.54,
+    "stock_price": 8596.82,
+    "stock_volume": 197030816,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 38,
+    "stock_symbol": "SODA",
+    "stock_name": "SodaStream International Ltd.",
+    "stock_sector": "Consumer Durables",
+    "stock_market_cap": 221495621149.87,
+    "stock_price": 2423.14,
+    "stock_volume": 284323292,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 39,
+    "stock_symbol": "RUSHB",
+    "stock_name": "Rush Enterprises, Inc.",
+    "stock_sector": "Consumer Durables",
+    "stock_market_cap": 190881983795.15,
+    "stock_price": 9748.19,
+    "stock_volume": 452645255,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 40,
+    "stock_symbol": "MER^K",
+    "stock_name": "Merrill Lynch & Co., Inc.",
+    "stock_sector": "n/a",
+    "stock_market_cap": 113969631940.24,
+    "stock_price": 5557.37,
+    "stock_volume": 448138355,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 41,
+    "stock_symbol": "QADA",
+    "stock_name": "QAD Inc.",
+    "stock_sector": "Technology",
+    "stock_market_cap": 562573072036.1,
+    "stock_price": 1517.95,
+    "stock_volume": 362398638,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 42,
+    "stock_symbol": "WWW",
+    "stock_name": "Wolverine World Wide, Inc.",
+    "stock_sector": "Consumer Non-Durables",
+    "stock_market_cap": 81183716202.86,
+    "stock_price": 8835.98,
+    "stock_volume": 481597236,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 43,
+    "stock_symbol": "TVTY",
+    "stock_name": "Tivity Health, Inc.",
+    "stock_sector": "Health Care",
+    "stock_market_cap": 435886751529.91,
+    "stock_price": 8537.56,
+    "stock_volume": 437885216,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 44,
+    "stock_symbol": "FPH",
+    "stock_name": "Five Point Holdings, LLC",
+    "stock_sector": "Finance",
+    "stock_market_cap": 870574630910.2,
+    "stock_price": 7286.99,
+    "stock_volume": 270557378,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 45,
+    "stock_symbol": "SNHNI",
+    "stock_name": "Senior Housing Properties Trust",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 106767092163.66,
+    "stock_price": 5919.64,
+    "stock_volume": 233719165,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 46,
+    "stock_symbol": "CTRP",
+    "stock_name": "Ctrip.com International, Ltd.",
+    "stock_sector": "Miscellaneous",
+    "stock_market_cap": 693731062629.65,
+    "stock_price": 2888.39,
+    "stock_volume": 48976584,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 47,
+    "stock_symbol": "A",
+    "stock_name": "Agilent Technologies, Inc.",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 549396138519.93,
+    "stock_price": 5287.76,
+    "stock_volume": 289206374,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 48,
+    "stock_symbol": "ACIU",
+    "stock_name": "AC Immune SA",
+    "stock_sector": "Health Care",
+    "stock_market_cap": 776077933793.18,
+    "stock_price": 6265.54,
+    "stock_volume": 261212632,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 49,
+    "stock_symbol": "ATTO",
+    "stock_name": "Atento S.A.",
+    "stock_sector": "Public Utilities",
+    "stock_market_cap": 220850094595.67,
+    "stock_price": 4486.45,
+    "stock_volume": 520389127,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 50,
+    "stock_symbol": "TDS",
+    "stock_name": "Telephone and Data Systems, Inc.",
+    "stock_sector": "Public Utilities",
+    "stock_market_cap": 695794807688.22,
+    "stock_price": 9157.76,
+    "stock_volume": 43717726,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 51,
+    "stock_symbol": "SUPV",
+    "stock_name": "Grupo Supervielle S.A.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 860268289380.14,
+    "stock_price": 814.85,
+    "stock_volume": 681595238,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 52,
+    "stock_symbol": "MEET",
+    "stock_name": "The Meet Group, Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 433845732024.72,
+    "stock_price": 6118.84,
+    "stock_volume": 430290680,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 53,
+    "stock_symbol": "TU",
+    "stock_name": "TELUS Corporation",
+    "stock_sector": "Public Utilities",
+    "stock_market_cap": 164533115873.37,
+    "stock_price": 3201.59,
+    "stock_volume": 392453500,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 54,
+    "stock_symbol": "WLTW",
+    "stock_name": "Willis Towers Watson Public Limited Company",
+    "stock_sector": "Finance",
+    "stock_market_cap": 726421856903.56,
+    "stock_price": 5877.11,
+    "stock_volume": 44418335,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 55,
+    "stock_symbol": "TRNO",
+    "stock_name": "Terreno Realty Corporation",
+    "stock_sector": "Finance",
+    "stock_market_cap": 111999661026.13,
+    "stock_price": 8768.19,
+    "stock_volume": 634134012,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 56,
+    "stock_symbol": "CHD",
+    "stock_name": "Church & Dwight Company, Inc.",
+    "stock_sector": "Basic Industries",
+    "stock_market_cap": 590328709566.3,
+    "stock_price": 4643.39,
+    "stock_volume": 867442713,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 57,
+    "stock_symbol": "NTIC",
+    "stock_name": "Northern Technologies International Corporation",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 149767814565.77,
+    "stock_price": 5461.78,
+    "stock_volume": 995683884,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 58,
+    "stock_symbol": "GS^J",
+    "stock_name": "Goldman Sachs Group, Inc. (The)",
+    "stock_sector": "n/a",
+    "stock_market_cap": 962723465269.07,
+    "stock_price": 3778.41,
+    "stock_volume": 570719385,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 59,
+    "stock_symbol": "BLMT",
+    "stock_name": "BSB Bancorp, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 555736770996.27,
+    "stock_price": 3967.5,
+    "stock_volume": 857308826,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 60,
+    "stock_symbol": "MWA",
+    "stock_name": "MUELLER WATER PRODUCTS",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 665430310119.55,
+    "stock_price": 7640.08,
+    "stock_volume": 217616740,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 61,
+    "stock_symbol": "PRSS",
+    "stock_name": "CafePress Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 985837757420.43,
+    "stock_price": 3406.53,
+    "stock_volume": 234899325,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 62,
+    "stock_symbol": "DL",
+    "stock_name": "China Distance Education Holdings Limited",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 407560442983.54,
+    "stock_price": 8262.74,
+    "stock_volume": 746295172,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 63,
+    "stock_symbol": "SBGL",
+    "stock_name": "Sibanye Gold Limited",
+    "stock_sector": "Basic Industries",
+    "stock_market_cap": 118593781599.78,
+    "stock_price": 5611.38,
+    "stock_volume": 674244059,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 64,
+    "stock_symbol": "MTRN",
+    "stock_name": "Materion Corporation",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 877321283247.72,
+    "stock_price": 6362.14,
+    "stock_volume": 973704758,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 65,
+    "stock_symbol": "TROW",
+    "stock_name": "T. Rowe Price Group, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 239640312113.71,
+    "stock_price": 6465.17,
+    "stock_volume": 626220389,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 66,
+    "stock_symbol": "GGZ",
+    "stock_name": "Gabelli Global Small and Mid Cap Value Trust (The)",
+    "stock_sector": "n/a",
+    "stock_market_cap": 217367993904.05,
+    "stock_price": 4955.38,
+    "stock_volume": 417876841,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 67,
+    "stock_symbol": "MOS",
+    "stock_name": "Mosaic Company (The)",
+    "stock_sector": "Basic Industries",
+    "stock_market_cap": 761733230074.65,
+    "stock_price": 6971.24,
+    "stock_volume": 313137772,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 68,
+    "stock_symbol": "GNT",
+    "stock_name": "GAMCO Natural Resources, Gold & Income Tust ",
+    "stock_sector": "n/a",
+    "stock_market_cap": 435087955194.14,
+    "stock_price": 8954.56,
+    "stock_volume": 855571344,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 69,
+    "stock_symbol": "ESXB",
+    "stock_name": "Community Bankers Trust Corporation.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 199150889032.19,
+    "stock_price": 5857.1,
+    "stock_volume": 772763405,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 70,
+    "stock_symbol": "ICD",
+    "stock_name": "Independence Contract Drilling, Inc.",
+    "stock_sector": "Energy",
+    "stock_market_cap": 692363263550.2,
+    "stock_price": 3157.83,
+    "stock_volume": 448338716,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 71,
+    "stock_symbol": "EXTR",
+    "stock_name": "Extreme Networks, Inc.",
+    "stock_sector": "Technology",
+    "stock_market_cap": 834015648903.86,
+    "stock_price": 8402.98,
+    "stock_volume": 766760357,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 72,
+    "stock_symbol": "PPP",
+    "stock_name": "Primero Mining Corp",
+    "stock_sector": "Basic Industries",
+    "stock_market_cap": 231115370454.21,
+    "stock_price": 9677.68,
+    "stock_volume": 820634470,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 73,
+    "stock_symbol": "BFO",
+    "stock_name": "Blackrock Florida Municipal 2020 Term Trust",
+    "stock_sector": "n/a",
+    "stock_market_cap": 224147277516.76,
+    "stock_price": 78.65,
+    "stock_volume": 254765047,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 74,
+    "stock_symbol": "GGT^B",
+    "stock_name": "Gabelli Multi-Media Trust Inc. (The)",
+    "stock_sector": "n/a",
+    "stock_market_cap": 312403738200.65,
+    "stock_price": 8337.65,
+    "stock_volume": 158669345,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 75,
+    "stock_symbol": "APEI",
+    "stock_name": "American Public Education, Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 708982129120.69,
+    "stock_price": 8307.84,
+    "stock_volume": 911249172,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 76,
+    "stock_symbol": "FYC",
+    "stock_name": "First Trust Small Cap Growth AlphaDEX Fund",
+    "stock_sector": "n/a",
+    "stock_market_cap": 653557833125.09,
+    "stock_price": 9335.54,
+    "stock_volume": 132404215,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 77,
+    "stock_symbol": "IRL",
+    "stock_name": "New Ireland Fund, Inc. (The)",
+    "stock_sector": "n/a",
+    "stock_market_cap": 404846587309.93,
+    "stock_price": 1370.8,
+    "stock_volume": 322658332,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 78,
+    "stock_symbol": "WSTL",
+    "stock_name": "Westell Technologies, Inc.",
+    "stock_sector": "Public Utilities",
+    "stock_market_cap": 646808794891.72,
+    "stock_price": 9937.63,
+    "stock_volume": 778984180,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 79,
+    "stock_symbol": "VIA",
+    "stock_name": "Viacom Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 14416064983.09,
+    "stock_price": 9983.52,
+    "stock_volume": 971199685,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 80,
+    "stock_symbol": "OXLC",
+    "stock_name": "Oxford Lane Capital Corp.",
+    "stock_sector": "n/a",
+    "stock_market_cap": 467939422066.05,
+    "stock_price": 7707.71,
+    "stock_volume": 18419394,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 81,
+    "stock_symbol": "FCFS",
+    "stock_name": "First Cash, Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 384181970687.37,
+    "stock_price": 6830.5,
+    "stock_volume": 867703102,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 82,
+    "stock_symbol": "WR",
+    "stock_name": "Westar Energy, Inc.",
+    "stock_sector": "Public Utilities",
+    "stock_market_cap": 469156927328.88,
+    "stock_price": 3147.98,
+    "stock_volume": 934967590,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 83,
+    "stock_symbol": "ETX",
+    "stock_name": "Eaton Vance Municipal Income 2028 Term Trust",
+    "stock_sector": "n/a",
+    "stock_market_cap": 96325624446.14,
+    "stock_price": 3856.21,
+    "stock_volume": 340033596,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 84,
+    "stock_symbol": "FC",
+    "stock_name": "Franklin Covey Company",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 753500653680.16,
+    "stock_price": 8692.39,
+    "stock_volume": 262400149,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 85,
+    "stock_symbol": "DAN",
+    "stock_name": "Dana Incorporated",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 277109377141.23,
+    "stock_price": 1768.66,
+    "stock_volume": 460244696,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 86,
+    "stock_symbol": "PVAC",
+    "stock_name": "Penn Virginia Corporation",
+    "stock_sector": "Energy",
+    "stock_market_cap": 315132812284.55,
+    "stock_price": 9034.98,
+    "stock_volume": 565494725,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 87,
+    "stock_symbol": "XPO",
+    "stock_name": "XPO Logistics, Inc.",
+    "stock_sector": "Consumer Services",
+    "stock_market_cap": 972449615654.47,
+    "stock_price": 4189.02,
+    "stock_volume": 497821495,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 88,
+    "stock_symbol": "IVENC",
+    "stock_name": "Ivy NextShares",
+    "stock_sector": "n/a",
+    "stock_market_cap": 490399928125.99,
+    "stock_price": 7383.31,
+    "stock_volume": 698365274,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 89,
+    "stock_symbol": "LN",
+    "stock_name": "LINE Corporation",
+    "stock_sector": "Technology",
+    "stock_market_cap": 106829122018.03,
+    "stock_price": 4116.26,
+    "stock_volume": 672048226,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 90,
+    "stock_symbol": "NCB",
+    "stock_name": "Nuveen California Municipal Value Fund 2",
+    "stock_sector": "n/a",
+    "stock_market_cap": 608559877800.54,
+    "stock_price": 5648.63,
+    "stock_volume": 94107891,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 91,
+    "stock_symbol": "AXTA",
+    "stock_name": "Axalta Coating Systems Ltd.",
+    "stock_sector": "Basic Industries",
+    "stock_market_cap": 820499571628.67,
+    "stock_price": 4515.3,
+    "stock_volume": 335527416,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 92,
+    "stock_symbol": "NCTY",
+    "stock_name": "The9 Limited",
+    "stock_sector": "Miscellaneous",
+    "stock_market_cap": 105010924022.09,
+    "stock_price": 1690.0,
+    "stock_volume": 480640043,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 93,
+    "stock_symbol": "INT",
+    "stock_name": "World Fuel Services Corporation",
+    "stock_sector": "Energy",
+    "stock_market_cap": 286780855225.59,
+    "stock_price": 110.63,
+    "stock_volume": 278708031,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 94,
+    "stock_symbol": "SOI",
+    "stock_name": "Solaris Oilfield Infrastructure, Inc.",
+    "stock_sector": "Energy",
+    "stock_market_cap": 541475408720.09,
+    "stock_price": 6751.27,
+    "stock_volume": 726161851,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 95,
+    "stock_symbol": "OLBK",
+    "stock_name": "Old Line Bancshares, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 696486295290.99,
+    "stock_price": 2047.7,
+    "stock_volume": 532106731,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 96,
+    "stock_symbol": "HOLI",
+    "stock_name": "Hollysys Automation Technologies, Ltd.",
+    "stock_sector": "Energy",
+    "stock_market_cap": 362384253594.86,
+    "stock_price": 9142.87,
+    "stock_volume": 550155850,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 97,
+    "stock_symbol": "DGRW",
+    "stock_name": "WisdomTree U.S. Quality Dividend Growth Fund",
+    "stock_sector": "n/a",
+    "stock_market_cap": 415694117423.58,
+    "stock_price": 5572.28,
+    "stock_volume": 902560443,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 98,
+    "stock_symbol": "NFEC",
+    "stock_name": "NF Energy Saving Corporation",
+    "stock_sector": "Capital Goods",
+    "stock_market_cap": 765570130760.65,
+    "stock_price": 3981.45,
+    "stock_volume": 240618066,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 99,
+    "stock_symbol": "PTR",
+    "stock_name": "PetroChina Company Limited",
+    "stock_sector": "Energy",
+    "stock_market_cap": 332622614255.9,
+    "stock_price": 2974.44,
+    "stock_volume": 971460201,
+    "stock_market": "NYSE"
+  },
+  {
+    "stock_id": 100,
+    "stock_symbol": "FISI",
+    "stock_name": "Financial Institutions, Inc.",
+    "stock_sector": "Finance",
+    "stock_market_cap": 160590927299.48,
+    "stock_price": 6864.16,
+    "stock_volume": 995370966,
+    "stock_market": "NASDAQ"
+  },
+  {
+    "stock_id": 102,
+    "stock_symbol": "XOM",
+    "stock_name": "Exxon Mobil Corporation",
+    "stock_sector": "Energy",
+    "stock_market_cap": 480000000000.0,
+    "stock_price": 75.0,
+    "stock_volume": 100000000,
+    "stock_market": "NYSE"
+  }
+]
