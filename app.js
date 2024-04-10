@@ -8,6 +8,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(methodOverride("_method"));
 app.set("view engine", "ejs");
 app.use(express.json());
+app.use(express.static("public/stylesheets")); // for css files
 
 // Routes
 const homeRoutes = require("./routes/homeRoutes");
