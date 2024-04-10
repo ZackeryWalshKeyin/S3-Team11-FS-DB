@@ -12,11 +12,11 @@ app.use(express.static("public/stylesheets")); // for css files
 
 // Routes
 const homeRoutes = require("./routes/homeRoutes");
-// const loginRoutes = require("./routes/loginRoutes");
+const loginRoutes = require("./routes/loginRoutes");
 // const signupRoutes = require("./routes/signupRoutes");
 // const searchRoutes = require("./routes/searchRoutes");
 app.use("/home", homeRoutes);
-// app.use("/login", loginRoutes);
+app.use("/login", loginRoutes);
 // app.use("/signup", signupRoutes);
 // app.use("/search", searchRoutes);
 
