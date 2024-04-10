@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Search</title>
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+  </head>
+  <body class="body-content">
+    <%- include('partials/nav') %>
+    <h2>Search Stock Market Data Centre</h2>
+    <form action="/search/search" method="get">
+      <label for="searchParam">Search:</label>
+      <input type="text" id="searchParam" name="searchParam" required /><br />
+      <br />
+      <label for="database">Select database:</label>
+      <select id="database" name="database">
+        <option value="postgres">Postgres</option>
+        <option value="mongodb">MongoDB</option></select
+      ><br />
+      <br />
+      <input type="submit" value="Search" />
+    </form>
+    <%- include('partials/footer') %>
+  </body>
+</html>
