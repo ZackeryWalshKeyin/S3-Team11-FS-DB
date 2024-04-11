@@ -1,19 +1,35 @@
 const express = require("express");
 const router = express.Router();
-const dataAccessLayer = require("../controllers/DAL.js");
+const { pool } = require("../controllers/DAL.js");
+
+// How can i implement the const POOL from DAL.js in this file?
 
 router.get("/", (req, res) => {
   res.render("search");
 });
 
-router.get("/search", (req, res) => {
+router.get("/search", async (req, res) => {
   const { searchParam, database } = req.query;
 
-  // Here you would typically perform the search in the selected database
-  // For simplicity, we'll just return a hard-coded array of results
-  const results = ["Result 1", "Result 2", "Result 3"];
+  if (database === "postgres") {
+    try {
+      const query = `
+          SELECT * FROM stock_market_data
+          WHERE stock_symbol ILIKE $1
+          OR stock_name ILIKE $1
+          OR stock_sector ILIKE $1
+        `;
+      const values = [`%${searchParam}%`];
 
-  res.render("searchResults", { results });
+      const { rows } = await pool.query(query, values);
+      res.render("searchResults", { results: rows });
+    } catch (err) {
+      console.error(err);
+      res.send("An error occurred");
+    }
+  } else {
+    // Handle MongoDB search
+  }
 });
 
 module.exports = router;

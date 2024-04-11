@@ -21,13 +21,6 @@ app.use("/login", loginRoutes);
 app.use("/signup", signupRoutes);
 app.use("/search", searchRoutes);
 
-app.get("/search", (req, res) => {
-  const { searchParam, database } = req.query;
-
-  const results = ["result1", "result2", "result3"];
-  res.render("searchResults", { results });
-});
-
 // Start server
 const PORT = 3010;
 app.listen(PORT, () => {

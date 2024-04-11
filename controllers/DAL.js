@@ -3,7 +3,7 @@ const { Pool } = require("pg");
 const pool = new Pool({
   user: "postgres",
   host: "localhost",
-  database: "users",
+  database: "stock_market_database",
   password: "password",
   port: 5432,
 });
@@ -40,3 +40,5 @@ const mockData = [
     stock_market: "NASDAQ",
   },
 ];
+
+module.exports = { pool, mockData };

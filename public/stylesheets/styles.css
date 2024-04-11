@@ -68,3 +68,12 @@ body {
 .input-group input {
   width: 200px;
 }
+
+.search-results-ul {
+  padding-bottom: 60px;
+}
+
+.search-results-ul li {
+  text-align: left;
+  width: 300px;
+}
