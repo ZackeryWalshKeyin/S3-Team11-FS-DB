@@ -2,7 +2,7 @@
 
 const { Pool } = require("pg");
 
-const pool = new Pool({
+const poolPG = new Pool({
   user: "postgres",
   host: "localhost",
   database: "stock_market_database",
@@ -10,4 +10,4 @@ const pool = new Pool({
   port: 5432,
 });
 
-module.exports = { pool };
+module.exports = { poolPG };
