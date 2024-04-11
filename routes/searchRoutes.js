@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const { pool } = require("../controllers/DAL.js");
+const { pool } = require("../controllers/pgDAL.js");
 
 // How can i implement the const POOL from DAL.js in this file?
 

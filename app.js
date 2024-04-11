@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const methodOverride = require("method-override");
-const dataAccessLayer = require("./controllers/DAL.js");
+const dataAccessLayer = require("./controllers/pgDAL.js");
 
 // Middleware
 app.use(express.urlencoded({ extended: true }));
