@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
-const { pool } = require("../controllers/pgDAL.js");
+const { poolPG } = require("../controllers/pgDAL.js");
+const { poolMongo } = require("../controllers/mongoDAL.js");
 
 // How can i implement the const POOL from DAL.js in this file?
 
@@ -21,14 +22,31 @@ router.get("/search", async (req, res) => {
         `;
       const values = [`%${searchParam}%`];
 
-      const { rows } = await pool.query(query, values);
+      const { rows } = await poolPG.query(query, values);
       res.render("searchResults", { results: rows });
     } catch (err) {
       console.error(err);
       res.send("An error occurred");
     }
   } else {
-    // Handle MongoDB search
+    try {
+      const collection = poolMongo
+        .db("stock_market_database")
+        .collection("stock_market_data");
+      const query = {
+        $or: [
+          { stock_symbol: { $regex: searchParam, $options: "i" } },
+          { stock_name: { $regex: searchParam, $options: "i" } },
+          { stock_sector: { $regex: searchParam, $options: "i" } },
+        ],
+      };
+
+      const results = await collection.find(query).toArray();
+      res.render("searchResults", { results: results });
+    } catch (err) {
+      console.error(err);
+      res.send("An error occurred");
+    }
   }
 });
 
