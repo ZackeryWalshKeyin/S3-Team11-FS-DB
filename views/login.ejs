@@ -8,6 +8,9 @@
     <%- include('partials/nav') %>
     <h2>User Login</h2>
     <form action="/login" method="post">
+      <% if (message) { %>
+      <p><%= message %></p>
+      <% } %>
       <label for="username">Username:</label>
       <input type="text" id="username" name="username" /><br />
       <br />
