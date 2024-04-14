@@ -2,7 +2,7 @@
 
 const { MongoClient } = require("mongodb");
 
-const uri = "mongodb://localhost:27017/";
+const uri = "mongodb+srv://@cluster0.iqxpvr2.mongodb.net/";
 
 const poolMongo = new MongoClient(uri);
 
