@@ -1,16 +1,31 @@
 const express = require("express");
 const router = express.Router();
+const fs = require('fs');
 const { poolPG } = require("../controllers/pgDAL.js");
 const { poolMongo } = require("../controllers/mongoDAL.js");
+const { getLoginByUsername } = require("../controllers/pgLoginsDAL.js");
 
 // How can i implement the const POOL from DAL.js in this file?
+
+function logToFile(Keyword, userId) {
+  const logData = `${new Date().toISOString()} - Keyword: ${Keyword}, User ID: ${userId}\n`;
+  fs.appendFile(`query_log.text`, logData, (err) => {
+    if (err) {
+      console.error('Error writing log to file: ', err);
+    }
+  });
+}
 
 router.get("/", (req, res) => {
   res.render("search");
 });
 
 router.get("/search", async (req, res) => {
+  const username = req.user.username;
+  const user =  await getLoginByUsername(username);
+  const userId = user ? user._id : null;
   const { searchParam, database } = req.query;
+  const Keyword = searchParam;
 
   if (database === "postgres") {
     try {
@@ -24,6 +39,7 @@ router.get("/search", async (req, res) => {
 
       const { rows } = await poolPG.query(query, values);
       res.render("searchResults", { results: rows });
+      logToFile(Keyword, userId);
     } catch (err) {
       console.error(err);
       res.send("An error occurred");
@@ -43,6 +59,7 @@ router.get("/search", async (req, res) => {
 
       const results = await collection.find(query).toArray();
       res.render("searchResults", { results: results });
+      logToFile(Keyword, userId);
     } catch (err) {
       console.error(err);
       res.send("An error occurred");

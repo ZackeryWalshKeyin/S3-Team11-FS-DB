@@ -18,6 +18,7 @@ passport.use(
       if (!user) {
         return done(null, false, { message: "No user with that username." });
       }
+      user.username = username;
       try {
         if (password === user.password) {
           return done(null, user);
